@@ -1,0 +1,75 @@
+.product {
+    display: flex;
+    justify-content: space-around;
+    height: 765px;
+    width: 1300px;
+    background-image: url("../image/产品背景.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.product p {
+    color: rgb(191, 191, 191);
+}
+
+.product .head {
+    text-align: center;
+}
+
+.product .hTop {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.product .hBottom {
+    color: rgb(191, 191, 191);
+}
+
+.product .left {
+    float: left;
+    width: 400px;
+    padding-top: 130px;
+}
+
+.product .box1 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+    transform: rotate(45deg);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.product .box2 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(166, 166, 166);
+    transform: translate(-48px, 9px) rotate(45deg);
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.product .neirong {
+    width: 250px;
+    float: left;
+    margin-left: -25px;
+}
+
+.green {
+    background-color: green;
+}
+
+.product .white {
+    height: 450px;
+}
+
+.zhongjian {
+    float: left;
+}
+
+.product .right {
+    float: left;
+    padding-top: 130px;
+}

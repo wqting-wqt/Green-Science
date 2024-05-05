@@ -1,0 +1,226 @@
+@charset "utf-8";
+/* CSS Document */
+
+.A {
+    position: relative;
+    width: 1300PX;
+    height: 800PX;
+    background-image: url("../image/背景.png");
+    background-size: contain;
+}
+
+.a1 {
+    width: 1300PX;
+    height: 300PX;
+    margin: 0 auto;
+    overflow: hidden;
+    background-size: cover;
+    height: auto;
+}
+
+.a2 {
+    width: 1300px;
+    height: 100px;
+    float: left;
+    padding-left: 40px;
+}
+
+.A h1 {
+    color: #385723
+}
+
+.a3 {
+    width: 1000px;
+    height: 110px;
+    float: left;
+    padding-left: 40px;
+}
+
+.A h2 {
+    font-size: 125%;
+    color: #808080
+}
+
+.a4 {
+    width: 1300px;
+    height: 450px;
+}
+
+.a5 {
+    width: 250px;
+    height: 450px;
+    float: left;
+    background-color: #385723;
+}
+
+.a6 {
+    width: 500px;
+    height: 450px;
+    float: left;
+}
+
+.a7 {
+    width: 500px;
+    height: 450px;
+}
+
+.a6,
+.a7 {
+    padding: 0 20px;
+}
+
+.a8 {
+    width: 500px;
+    height: 450px;
+    float: left;
+}
+
+.a9 {
+    width: 500px;
+    height: 450px;
+}
+
+.a7,
+.a9 {
+    padding: 0 5px;
+}
+
+.a10 {
+    width: 1300PX;
+    height: 300PX;
+    margin: 0 auto;
+    overflow: hidden;
+    background-size: cover;
+    height: auto;
+}
+
+.A h3 {
+    height: 300PX;
+    text-align: center;
+}
+
+.B {
+    position: relative;
+    width: 1300px;
+    height: 800px;
+}
+
+.b1 {
+
+    width: 1300PX;
+    height: 300PX;
+    overflow: hidden;
+    background-size: cover;
+    height: auto;
+    background-image: url("../image/背景.png");
+}
+
+.b2 {
+    width: 1300px;
+    height: 700px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-size: cover;
+    height: auto;
+    background-image: url("../image/背景.png");
+    float: left;
+}
+
+.b3 {
+    width: 400px;
+    height: 700px;
+    margin-left: 100px;
+    float: left
+}
+
+.b4 {
+    height: 200px;
+    width: 500px;
+    position: relative;
+    float: left;
+}
+
+.b5 {
+    height: 15px;
+    width: 100px;
+    float: left;
+    background-color: #98A97B;
+    position: absolute;
+    bottom: 50px;
+}
+
+.b6 {
+    border: 1px solid #385723;
+    padding: 20px;
+    margin-right: 20px;
+    width: 500px;
+    height: 120px;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    float: left;
+}
+
+.B h4 {
+    font-size: 30px;
+    font-family: "SimSun", sans-serif;
+    text-align: left;
+}
+
+.b7 {
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+
+    float: left;
+}
+
+.B h5 {
+    height: 150px;
+    width: 300px;
+    font-size: 90%;
+
+}
+
+.b8 {
+    width: 700px;
+    height: 700px;
+    float: left;
+    position: relative;
+}
+
+.b9 {
+    width: 700px;
+    height: 500px;
+    float: left;
+    margin-right: 80px;
+}
+
+.b10 {
+    width: 700px;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    float: left;
+
+    background-image: url("../image/背景.png");
+}
+
+.b11 {
+    position: absolute;
+    right: 20px;
+    width: 100px;
+    height: 25px;
+    background-color: #98A97B;
+    top: 550px;
+}
+
+.b111 {
+    position: absolute;
+    right: 20px;
+    width: 100px;
+    height: 25px;
+    background-color: #98A97B;
+    top: 550px;
+}

@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+/* CSS Document */
+.middle2 {
+  width: 1300px;
+  height: 700px;
+  background-image: url("../image/背景.png");
+  background-size: cover;
+  margin: 0
+}
+
+.middle2 h1 {
+  margin-top: 0px;
+  padding-top: 50px;
+}
+
+.middle2 p {
+  color: #a4a6a1;
+  font-size: 18px;
+}
+
+.middle2 h2 {
+  color: #21823c;
+}
+
+.mtll {
+  width: 600px;
+  height: 540px;
+  float: left;
+
+  margin-left: 50px
+}
+
+#mt1l {
+  width: 650px;
+  height: 180px;
+}
+
+#mt2l {
+  width: 650px;
+  height: 180px;
+}
+
+.mt1ll {
+  width: 200px;
+  float: left;
+  height: 160px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.mt1rl {
+  width: 300px;
+  float: left;
+  height: 180px;
+}
+
+.mt2ll {
+  width: 360px;
+  float: left;
+  height: 180px;
+  margin-right: 40px;
+}
+
+.mt2rl {
+  width: 230px;
+  float: left;
+  height: 130px;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+#mt3l {
+  width: 60px;
+  height: 180px;
+  margin-left: 510px;
+}
+
+.mtrr {
+  width: 640px;
+  float: left;
+  height: 540px;
+  margin-left: 10px;
+}
+
+#mt4r {
+  width: 640px;
+  height: 70px;
+  margin-top: 75px;
+  margin-left: 10px;
+}
+
+#mt5r {
+  width: 650px;
+  height: 155px;
+}
+
+.mt5lr {
+  width: 250px;
+  float: left;
+  height: 155px;
+}
+
+.mt5rr {
+  width: 400px;
+  float: left;
+  height: 155px;
+}
+
+#mt6r {
+  width: 650px;
+  height: 240px;
+}
+
+.mt6lr {
+  width: 330px;
+  float: left;
+  height: 230px;
+}
+
+.mt6rr {
+  width: 320px;
+  float: left;
+  height: 230px;
+}

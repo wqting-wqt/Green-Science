@@ -1,0 +1,107 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    height: 765px;
+    width: 1300px;
+    margin-top: -20px;
+    background-image: url("../image/背景.png");
+    background-size: cover;
+}
+
+.main .head {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.main .hLeft {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.main .hRight {
+    width: 200px;
+    margin-right: 50px;
+}
+
+.main hr:first-child {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.main hr:last-child {
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+.main .left {
+    display: inline-block;
+    position: relative;
+    width: 50%;
+}
+
+.main .right {
+    display: inline-block;
+    position: relative;
+    width: 45%;
+    bottom: 50px;
+}
+
+.main .img {
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    top: 45px;
+}
+
+.main .greenBox {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin-left: 185px;
+    margin-top: 215px;
+    background-color: green;
+}
+
+.main .row1 {
+    font-size: xx-large;
+    padding-bottom: 20px;
+}
+
+.main .row2 {
+    font-size: x-large;
+    padding-top: 30px;
+    color: gray;
+}
+
+.main .row3 {
+    position: relative;
+}
+
+.main .row3 p:first-child {
+    font-size: 200px;
+    margin: 0;
+    color: white;
+    /* 文字颜色为白色 */
+    text-shadow: -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    /* 文字阴影，模拟边界 */
+    letter-spacing: 2px;
+    /* 字母间距，可调整空心宽度 */
+}
+
+.main .row3 p:last-child {
+    position: absolute;
+    font-size: small;
+    color: white;
+    padding: 5px 16px;
+    background-color: green;
+    bottom: 174px;
+    left: 5px;
+}
