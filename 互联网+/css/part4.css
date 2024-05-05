@@ -1,0 +1,80 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.lianxi {
+    position: relative;
+    ;
+    height: 765px;
+    width: 1300px;
+    margin-top: -20px;
+    background-image: url("../image/背景.png");
+    background-size: cover;
+}
+
+.form {
+    padding-top: 80px;
+    text-align: center;
+    margin-bottom: 115px;
+}
+
+.form .inputBox {
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: -145px;
+    padding-top: 50px;
+}
+
+.form label {
+    display: inline-block;
+}
+
+.form input {
+    width: 450px;
+    height: 50px;
+    font-size: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.form .tixing {
+    color: rgb(112, 173, 71);
+    padding-top: 20px;
+}
+
+.submit {
+    width: 170px;
+    height: 55px;
+    font-size: 30px;
+    background-color: rgb(56, 87, 35);
+    color: white;
+    margin-top: 10px;
+}
+
+.dianhua {
+    display: inline-block;
+}
+
+.youxiang {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.erweimaBox {
+    position: absolute;
+    display: inline-block;
+    right: 50px;
+    bottom: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.erweima {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-image: url("../image/下载.png");
+    background-size: cover;
+}
